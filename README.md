@@ -10,3 +10,6 @@ The switch pin are set in Pin16, Pin17, Pin18.
 /////////////////////////////////////////////////////////////////
 The datasheet and the circuit of BJT are in the document.
 The demo video is showed in the document file as well.
+///////////////////////////////////////////////////////////////
+The MOS switch is also available in the project.
+The Datasheet  of IRF530NPBF(N)/IRF9540(P) are collected in the documentation.
